@@ -1,3 +1,5 @@
+# statistics
+
 # 통계 분석 시스템
 
 데이터 업로드, 분석, 시각화를 위한 웹 기반 통계 분석 시스템입니다.
@@ -77,4 +79,4 @@ npm start
 
 ## 라이선스
 
-MIT License 
+MIT License
